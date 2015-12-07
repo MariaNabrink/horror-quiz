@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Horror Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="theHorror">The Horror!</string>
+    <string name="theHorror2">The Horror!</string>
+    <string name="name"> name...</string>
+    <string name="quiz_page">Quiz Page</string>
+    <string name="title_activity_loser">LoserActivity</string>
+    <string name="loser">You lost!</string>
+    <string name="title_activity_end">EndActivity</string>
+    <string name="high_score">High Score!</string>
+    <string name="hex">#</string>
+    <string name="score_name">Name</string>
+    <string name="points">Points</string>
+    <string name="sms_and_email_text">Send top score by:</string>
+
+</resources>

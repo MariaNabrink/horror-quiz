@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/black"
+    tools:context="se.thehorror.quiz.QuizActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <TextView
+        android:id="@+id/nameText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="14dp"
+        android:text="TextView"
+        android:textSize="15sp"
+        android:textColor="#e50000" />
+
+    <RadioGroup
+        android:id="@+id/radioAnswersGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical" >
+
+        <RadioButton
+            android:id="@+id/radioAnswer1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/questionTextView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="42dp"
+            android:text="RadioButton"
+            android:textColor="#e50000" />
+
+        <RadioButton
+            android:id="@+id/radioAnswer2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/radioButton1"
+            android:layout_below="@+id/radioButton1"
+            android:text="RadioButton"
+            android:textColor="#e50000" />
+
+        <RadioButton
+            android:id="@+id/radioAnswer3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RadioButton"
+            android:textColor="#e50000" />
+
+        <RadioButton
+            android:id="@+id/radioAnswer4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/radioButton3"
+            android:layout_below="@+id/radioButton3"
+            android:text="RadioButton"
+            android:textColor="#e50000" />
+    </RadioGroup>
+
+    <ImageButton
+        android:id="@+id/nextQuestionImageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/radioAnswersGroup"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:background="#000"
+        android:onClick="nextQuestion"
+        android:src="@drawable/nextbutton" />
+
+    <TextView
+        android:id="@+id/questionTextView"
+        android:layout_width="250dp"
+        android:layout_height="90dp"
+        android:layout_below="@+id/timeText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:hint="question"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#e50000" />
+
+    <TextView
+        android:id="@+id/timeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/nameText"
+        android:layout_toRightOf="@+id/radioAnswersGroup"
+        android:text="TextView"
+        android:textColor="#e50000"
+        android:textSize="20sp" />
+
+</RelativeLayout>

@@ -1,0 +1,214 @@
+{
+    "Questions": [
+        {
+            "id": "1",
+            "question": "Who played the iconic doll Chucky, in the Child's Play (1988)?",
+            "answers": {
+                "right answer": "Brad Dourif",
+                "wrong answer1": "Chris Sarandon",
+                "wrong answer2": "Gary Oldman",
+                "wrong answer3": "John Morghen"
+            }
+        },
+        {
+            "id": "2",
+            "question": " What kind of drink did R.J. MacReady often have in his hand in The Thing (1982)?",
+            "answers": {
+                "wrong answer1": "Bourbon",
+                "right answer": "Whiskey",
+                "wrong answer2": "Apple Juice",
+                "wrong answer3": "Vodka"
+            }
+        },
+        {
+            "id": "3",
+            "question": "Which Oscar nominated actor/actress did his/her film debut in A Nightmare on Elm Street (1984)?",
+            "answers": {
+                "wrong answer1": "Naomi Watts",
+                "right answer": "Johnny Depp",
+                "wrong answer2": "Laura Linney",
+                "wrong answer3": "Brad Pitt"
+            }
+        },
+        {
+            "id": "4",
+            "question": " In how many movies did Kane Hodder play Jason Voorhees in the Friday the 13th series?",
+            "answers": {
+            	"wrong answer1": "6",
+                "wrong answer2": "2",
+                "wrong answer3": "3",
+                "right answer": "4"
+            }
+        },
+        {
+            "id": "5",
+            "question": "Which movie was Oscar winning director Peter Jackson's directorial debut?",
+            "answers": {
+                "wrong answer1": "They Live",
+                "wrong answer2": "Braindead(Dead Alive)",
+                "right answer": "Bad Taste",
+                "wrong answer3": "Basket Case"
+            }
+        },
+        {
+            "id": "6",
+            "question": "Who directed the movie based on the Stephen King novel Christine in 1983?",
+            "answers": {
+                "right answer": "John Carpenter",
+                "wrong answer1": "Stuart Gordon",
+                "wrong answer2": "Wes Craven",
+                "wrong answer3": "Sam Raimi"
+            }
+        },
+        {
+            "id": "7",
+            "question": "Who did most the creature effects in The Thing (1982)?",
+            "answers": {
+                "wrong answer1": "Tom Savini",
+                "wrong answer2": "Greg Nicatero",
+                "right answer": "Rob Bottin",
+                "wrong answer3": "Stan Winston"
+            }
+        },
+        {
+            "id": "8",
+            "question": "Who played the deranged scientist Herbert West in the Re-Animator trilogy?",
+            "answers": {
+           	 	"wrong answer1": "Bruce Campbell",
+                "right answer": "Jeffrey Combs",
+                "wrong answer2": "Donald O'brian",
+                "wrong answer3": "Brad Dourif"
+            }
+        },
+        {
+            "id": "9",
+            "question": "Who played Dr. Butcher in Zombie Holocaust (1980)?",
+            "answers": {
+            	"wrong answer1": "John Morghen",
+            	"wrong answer2": "Christopher George",
+                "wrong answer3": "David Warbeck",
+                "right answer": "Donald O'brian"
+            }
+        },
+        {
+            "id": "10",
+            "question": "From who's short story was From Beyond (1986) based?",
+            "answers": {
+                "right answer": "H.P. Lovecraft",
+                "wrong answer1": "Stephen King",
+                "wrong answer2": "Edgar Allan Poe",
+                "wrong answer3": "Dean Koontz"
+            }
+        },
+        {
+            "id": "11",
+            "question": "Which director made his film debut with The Evil Dead (1981)?",
+            "answers": {
+                "wrong answer1": "Wes Craven",
+                "wrong answer2": "Sean S.Cunningham",
+                "right answer": "Sam Raimi",
+                "wrong answer3": "Stuart Gordon"
+            }
+        },
+        {
+            "id": "12",
+            "question": "What was the name of Danny's imaginary friend in The Shining (1980)?",
+            "answers": {
+                "wrong answer1": "Eddy",
+                "right answer": "Tony",
+                "wrong answer2": "Johnny",
+                "wrong answer3": "Kenny"
+            }
+        },
+        {
+            "id": "13",
+            "question": "In Gremlins (1984) Kate (Phoebe Cates) talks about a bad childhood memory in which she and her mother finds something horrible in their chimney. What did they find?",
+            "answers": {
+                "right answer": "Her dead father in a santa suit",
+                "wrong answer1": "A gremlin in a santa suit",
+                "wrong answer2": "A nest of dead crows",
+                "wrong answer3": "Their long lost dog hanging dead in their christmas lights"
+            }
+        },
+        {
+            "id": "14",
+            "question": "In Pumpkinhead (1988), why does Ed Harley want to take revenge on a bunch of teenagers?",
+            "answers": {
+                "wrong answer1": "They were toying with a gun and accidentally shoot and kill his brother",
+                "wrong answer2": "They accidentally crash into his wife's car, killing her",
+                "wrong answer3": "They rob his store and in the process accidentally shoot and kill his daughter",
+                "right answer": "They accidentally ran over and killed his son"
+            }
+        },
+        {
+            "id": "15",
+            "question": "From what movie: 'We have such sights to show you!'?",
+            "answers": {
+                "wrong answer1": "Re-Animator",
+                "right answer": "Hellraiser",
+                "wrong answer2": "Warlock",
+                "wrong answer3": "Evil Dead 2: Dead by Dawn"
+            }
+        },
+        {
+            "id": "16",
+            "question": "What was the reason for the creatures in Humanoids from the Deep (1980)?",
+            "answers": {
+                "wrong answer1": "They come from space",
+                "wrong answer2": "A mad scientist splicing man and fish",
+                "right answer": "An experiment on fish gone awry",
+                "wrong answer3": "They're an ancient species unleashed from the deep"
+            }
+        },
+        {
+            "id": "17",
+            "question": "From what movie: 'You say you hate Washington's Birthday or Thanksgiving and nobody cares but you say you hate Christmas and people treat you like you're a leper.'?",
+            "answers": {
+                "wrong answer1": "Elves",
+                "right answer": "Gremlins",
+                "wrong answer2": "Silent Night, Deadly Night",
+                "wrong answer3": "Christmas Evil"
+            }
+        },
+        {
+            "id": "18",
+            "question": "What kind of animal bit of part of Jennifer Connely's finger during the filming of Phenomena (1985)?",
+            "answers": {
+                "right answer": "A chimpanzee",
+                "wrong answer1": "A dog",
+                "wrong answer2": "A crokodile",
+                "wrong answer3": "A rat"
+            }
+        },
+        {
+            "id": "19",
+            "question": "In Killer Klowns from Outer Space (1988), What did the killer clowns use to wrap their victims in?",
+            "answers": {
+                "right answer": "Cotton candy",
+                "wrong answer1": "Wrapping paper",
+                "wrong answer2": "Green slime",
+                "wrong answer3": "popcorn"
+            }
+        },
+        {
+            "id": "20",
+            "question": "In Maniac (1980), what part of his victims does the killer take and nail to his manikins?",
+            "answers": {
+                "wrong answer1": "Their hands",
+                "wrong answer2": "Their skins",
+                "wrong answer3": "Their heads",
+                "right answer": "Their scalps"
+            }
+        },
+        {
+            "id": "21",
+            "question": "Who directed City of the Living Dead (1980)?",
+            "answers": {
+            	"wrong answer1": "Dario Argento",
+                "right answer": "Lucio Fulci",
+                "wrong answer2": "Ruggero Deodato",
+                "wrong answer3": "Bruno Mattei"
+            }
+        }
+    ]
+}
